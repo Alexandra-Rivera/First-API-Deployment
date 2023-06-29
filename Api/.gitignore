@@ -1,0 +1,22 @@
+#Ignorar la carpeta node_modules
+node_modules/
+
+#Ignorar archivos generados por el editor de codigo
+*.swp
+*.swo
+*.swn
+
+#Ignorar archivos de respaldo
+*~
+*.bak
+
+#Ignorar archivos de configuracion local
+.env
+
+#Ignorar archivos y directorios de construccion
+build/
+dist/
+out/
+
+#Ignorar archivos de registro
+*.log
